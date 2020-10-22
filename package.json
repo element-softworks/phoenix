@@ -1,6 +1,6 @@
 {
 	"name": "@element-softworks/daintree-node",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Node.js Component Library",
 	"author": "Luke Brown",
 	"main": "index.js",
