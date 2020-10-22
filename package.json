@@ -1,0 +1,12 @@
+{
+	"name": "@element-softworks/daintree-node",
+	"version": "0.0.2",
+	"description": "Node.js Component Library",
+	"author": "Luke Brown",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "MIT",
+	"repository": "https://github.com/element-softworks/daintree-node.git"
+}
