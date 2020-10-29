@@ -1,15 +1,23 @@
 {
-	"name": "@element-softworks/daintree-node",
-	"version": "0.0.4",
-	"description": "Node.js Component Library",
-	"author": "Luke Brown",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"license": "MIT",
-	"repository": "https://github.com/element-softworks/daintree-node.git",
-	"dependencies": {
-		"node-cache": "^5.1.2"
-	}
+  "name": "@element-softworks/phoenix",
+  "version": "0.0.4",
+  "description": "Node.js Component Library",
+  "author": "Luke Brown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/element-softworks/phoenix.git"
+  },
+  "dependencies": {
+    "node-cache": "^5.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/element-softworks/phoenix/issues"
+  },
+  "homepage": "https://github.com/element-softworks/phoenix#readme",
+  "devDependencies": {}
 }
